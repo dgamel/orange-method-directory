@@ -1,0 +1,150 @@
+{
+  "cohorts": [
+    {
+      "id": 1,
+      "name": "The Pioneers",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Gen Z",
+      "active": false
+    }
+  ],
+
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Clifford",
+      "lastName": "Lim",
+      "cohortId": 1
+    },
+    {
+      "id": 2,
+      "firstName": "Dawn",
+      "lastName": "Paul",
+      "cohortId": 1
+    },
+    {
+      "id": 3,
+      "firstName": "Jared",
+      "lastName": "Twomley",
+      "cohortId": 1
+    },
+    {
+      "id": 4,
+      "firstName": "Gwen",
+      "lastName": "Sample",
+      "cohortId": 2
+    },
+    {
+      "id": 5,
+      "firstName": "Duane",
+      "lastName": "Dabney",
+      "cohortId": 1
+    },
+    {
+      "id": 5,
+      "firstName": "Emily",
+      "lastName": "Lubertowicz",
+      "cohortId": 1
+    },
+    {
+      "id": 6,
+      "firstName": "Alex",
+      "lastName": "Janus",
+      "cohortId": 1
+    },
+    {
+      "id": 7,
+      "firstName": "Donna",
+      "lastName": "Gamel",
+      "cohortId": 1
+    },
+    {
+      "id": 8,
+      "firstName": "Eric",
+      "lastName": "Ross",
+      "cohortId": 1
+    },
+    {
+      "id": 9,
+      "firstName": "Kelly",
+      "lastName": "Lindsey",
+      "cohortId": 1
+    },
+    {
+      "id": 10,
+      "firstName": "Deirdre",
+      "lastName": "Coulliette-Robledo",
+      "cohortId": 1
+    },
+    {
+      "id": 11,
+      "firstName": "Jeremy",
+      "lastName": "Frank",
+      "cohortId": 1
+    },
+    {
+      "id": 12,
+      "firstName": "Kevin",
+      "lastName": "Ponder",
+      "cohortId": 1
+    },
+    {
+      "id": 13,
+      "firstName": "Joyce",
+      "lastName": "Murray",
+      "cohortId": 1
+    },
+    {
+      "id": 14,
+      "firstName": "Laura",
+      "lastName": "Welsh",
+      "cohortId": 1
+    },
+    {
+      "id": 15,
+      "firstName": "Linda",
+      "lastName": "Palermo",
+      "cohortId": 1
+    },
+    {
+      "id": 16,
+      "firstName": "Tanya",
+      "lastName": "Bell",
+      "cohortId": 1
+    },
+    {
+      "id": 17,
+      "firstName": "Virginia",
+      "lastName": "Morrell",
+      "cohortId": 1
+    },
+    {
+      "id": 18,
+      "firstName": "Yolanda",
+      "lastName": "McKinney",
+      "cohortId": 1
+    }
+  ],
+
+  "instructors": [
+    {
+      "id": 1,
+      "firstName": "Brandon",
+      "lastName": "Kearns"
+    },
+    {
+      "id": 2,
+      "firstName": "Michael",
+      "lastName": "Hopper"
+    },
+    {
+      "id": 3,
+      "firstName": "Michael",
+      "lastName": "Barringer"
+    }
+
+  ]
+}
